@@ -1,7 +1,0 @@
-<?php
-
-require __DIR__ . '/../../bootstrap.php';
-
-echo "Multi\nline\nstdout.";
-
-Tester\Assert::fail('');

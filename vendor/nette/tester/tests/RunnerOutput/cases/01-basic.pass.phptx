@@ -1,6 +1,0 @@
-<?php
-
-require __DIR__ . '/../../bootstrap.php';
-Tester\Environment::$checkAssertions = false;
-
-echo "Multi\nline\nstdout.";
